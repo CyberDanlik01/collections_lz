@@ -25,5 +25,6 @@ while choice!= 3 :
         case 3: 
 
             print(dict)
-        else:
+        case _:
             print('Введите значение из списка(1,2,3)')
+
